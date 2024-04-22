@@ -1,8 +1,9 @@
-<h2 align="left">Hi 👋! My name is Martina and I'm a front-end web developer based in Vienna, with roots from Croatia. Passionate about crafting beautiful and functional websites, I recently completed a front-end web developer course and I'm eager to embark on my journey in the tech industry.</h2>
+## Hi 👋! My name is Martina!
+I recently completed a front-end web developer course and I'm eager to embark on my journey in the tech industry.
 
-## 🌱 Seeking Growth & Learning Opportunities
+## 🌱 Seeking Growth & Learning Opportunities as a Frontend developer
 
-I'm currently seeking entry-level opportunities to apply and expand my skills. I'm enthusiastic about collaborating with passionate teams and contributing to exciting projects.
+I'm currently seeking entry-level opportunities to apply and expand my skills. I'm enthusiastic about collaborating with passionate teams and contributing to exciting projects.</h4>
 
 ###
 <div align="center">
